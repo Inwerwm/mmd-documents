@@ -154,10 +154,10 @@ void CostomizeColor(in Material m, float3 Eye, float3 v, in float3 n, float face
 例えるなら、MMDの補間曲線が直線になっているときのような透明度変化になります。  
 そこで、内積を3乗することにより曲線的に値が変化するようにしています。
 
-絶対値をそのまま使った場合の透明度変化
+絶対値をそのまま使った場合の透明度変化  
 ![線形](Images/linear.png)
 
-絶対値の3乗を使った場合の透明度変化
+絶対値の3乗を使った場合の透明度変化  
 ![3乗](Images/cube.png)
 
 ````hlsl
