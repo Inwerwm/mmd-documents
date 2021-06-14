@@ -1,3 +1,0 @@
-# MMD Documents
-
-インデックス
