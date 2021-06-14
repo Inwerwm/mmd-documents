@@ -7,4 +7,4 @@
 ## 目次
 
 ### sdPBR
-- [ストッキング材質の作り方]({% link sdPBR\StockingMaterial.md %})
+- [ストッキング材質の作り方](sdPBR\StockingMaterial.html)
